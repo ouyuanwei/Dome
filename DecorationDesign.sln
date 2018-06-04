@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyInterFace", "Assmeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCache", "MyCache\MyCache.csproj", "{E16C8F42-9450-4305-B252-884EEA132F5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleDesign", "SingleDesign\SingleDesign.csproj", "{CDB5D556-21A9-4ED3-AF2A-561AC6B21124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoTypeDesign", "F:\demo\ProtoTypeDesign\ProtoTypeDesign.csproj", "{3C15A72D-302F-41BE-9E19-52F420E72E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E16C8F42-9450-4305-B252-884EEA132F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E16C8F42-9450-4305-B252-884EEA132F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E16C8F42-9450-4305-B252-884EEA132F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB5D556-21A9-4ED3-AF2A-561AC6B21124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB5D556-21A9-4ED3-AF2A-561AC6B21124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB5D556-21A9-4ED3-AF2A-561AC6B21124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB5D556-21A9-4ED3-AF2A-561AC6B21124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C15A72D-302F-41BE-9E19-52F420E72E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C15A72D-302F-41BE-9E19-52F420E72E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C15A72D-302F-41BE-9E19-52F420E72E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C15A72D-302F-41BE-9E19-52F420E72E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
